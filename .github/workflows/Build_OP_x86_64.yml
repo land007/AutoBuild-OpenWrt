@@ -12,10 +12,10 @@ on:
     types: [published]
 
   push:
-    branches: 
+    branches:
       - master
 
-  #schedule: 
+  #schedule:
   #  - cron: 0 8 * * 5
   
   #watch:
